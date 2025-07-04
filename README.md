@@ -6,7 +6,7 @@ A Java-based e-commerce system that demonstrates product management, cart functi
 
 ### Clone from github
 ```bash 
-git clone E-commerce_System
+https://github.com/shehabomar/E-commerce_System.git
 cd E-commerce_System
 ```
 
